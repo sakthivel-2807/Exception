@@ -22,6 +22,7 @@ public class UseAc {
 		  else {
 		     throw new NoWarrantyException("not a warranty one");
 		  }
+		  System.out.println("done");
 			
 			
 		}
